@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-After obtaining my PhD 2021 under the supervision of [László Erdős](https://ist.ac.at/en/research/erdoes-group/) at the Institute of Science and Technology Austria, since September 2021 I have been a research fellow at the [Princeton Center for Theoretical Science](https://pcts.princeton.edu). My research interests are probability theory and mathematical physics with a focus on random matrices and dynamical systems.
+After obtaining my PhD 2021 under the supervision of [László Erdős](https://ist.ac.at/en/research/erdoes-group/) at the Institute of Science and Technology Austria, since September 2021 I have been a research fellow at the [Princeton Center for Theoretical Science](https://pcts.princeton.edu). My research interests are probability theory and mathematical physics with a focus on random matrices, statistical mechanics, and dynamical systems.
 
 
 
@@ -24,9 +24,9 @@ After obtaining my PhD 2021 under the supervision of [László Erdős](https://i
 
 ## **Theses**
 
-Thesis [Fluctuations in the spectrum of random matrices] for the PhD in Mathematics supervised by [László Erdős](https://ist.ac.at/en/research/erdoes-group/).  
-Thesis [Deterministic walks] for the MSc in Theoretical and Mathematical Physics supervised by [Carlangelo Liverani](https://www.mat.uniroma2.it/~liverani/).  
-Thesis [Equazioni di Hamilton-Jacobi e problemi di controllo ottimale] for the BSc in Mathematics supervised by [Carlo Sinestari](https://www.mat.uniroma2.it/~sinestra/).  
+Thesis [Fluctuations in the spectrum of random matrices] for the PhD in Mathematics, supervised by [László Erdős](https://ist.ac.at/en/research/erdoes-group/).  
+Thesis [Deterministic walks] for the MSc in Theoretical and Mathematical Physics, supervised by [Carlangelo Liverani](https://www.mat.uniroma2.it/~liverani/).  
+Thesis [Equazioni di Hamilton-Jacobi e problemi di controllo ottimale] for the BSc in Mathematics, supervised by [Carlo Sinestari](https://www.mat.uniroma2.it/~sinestra/).  
 
 
 ### **Contact Information**

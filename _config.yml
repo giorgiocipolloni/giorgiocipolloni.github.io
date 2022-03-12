@@ -86,7 +86,7 @@ author:
   location         : "Princeton University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=jw9MFlMAAAAJ&hl=it"
+  googlescholar    : "https://scholar.google.com/citations?user=jw9MFlMAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "giorgiocipolloni"
+  github           : #"giorgiocipolloni"
   google_plus      :
   keybase          :
   instagram        :

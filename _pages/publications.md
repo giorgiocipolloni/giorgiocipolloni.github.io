@@ -9,9 +9,12 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-1. Fluctuations for differences of linear eigenvalue statistics for sample covariance matrices.
-with László Erdős (2018).
-Published in Random Matrices Theory and Applications (RMTA),
+1. **Fluctuations for differences of linear eigenvalue statistics for sample covariance matrices**  
+ 
+with László Erdős (2018).  
+
+Published in Random Matrices Theory and Applications (RMTA),  
+
 arXiv version: [arXiv:1806.08751](https://arxiv.org/abs/1806.08751)
 
 2. Cusp universality for random matrices II: The real symmetric case.

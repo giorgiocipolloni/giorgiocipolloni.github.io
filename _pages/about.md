@@ -13,12 +13,12 @@ After obtaining my PhD 2021 under the supervision of [László Erdős](https://i
 
 
 ## **Curriculum vitae**
-
-**2012 – 2015.** BSc, Universita’ degli studi di Roma Tor Vergata.  
-**2015 – 2017.** MSc, Universita’ degli studi di Roma Tor Vergata.  
-**09/2017 – 01/2021.** PhD, IST Austria.  
+  
+**09/2021 – present.** Research fellow, Princeton Center for Theoretical Science (PCTS), Princeton University.  
 **02/2021 – 08/2021.** Postdoc, IST Austria.  
-**09/2021 – present.** Research fellow, Princeton Center for Theoretical Science (PCTS), Princeton University.    
+**09/2017 – 01/2021.** PhD, IST Austria.  
+**2015 – 2017.** MSc, Universita’ degli studi di Roma Tor Vergata.  
+**2012 – 2015.** BSc, Universita’ degli studi di Roma Tor Vergata.
 
 [Curriculum vitae] for more detailed information.
 

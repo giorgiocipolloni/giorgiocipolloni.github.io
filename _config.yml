@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Giorgio Cipolloni"
 title_separator          : "-"
 name                     : &name "Giorgio Cipolloni"
-description              : &description "Research fellow at Princeton Center for Theoretical Science"
+description              : &description ""
 url                      : https://giorgiocipolloni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "giorgiocipolloni/giorgiocipolloni.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Giorgio Cipolloni"
   avatar           : "Photo.jpg"
-  bio              : "Research fellow at Princeton Center for Theoretical Science (PCT"
+  bio              : "Research fellow at Princeton Center for Theoretical Science (PCTS)"
   location         : "Princeton University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

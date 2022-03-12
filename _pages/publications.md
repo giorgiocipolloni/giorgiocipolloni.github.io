@@ -10,11 +10,8 @@ author_profile: true
 {% endif %}
 
 1. **Fluctuations for differences of linear eigenvalue statistics for sample covariance matrices**  
- 
-with László Erdős (2018).  
-
+ with László Erdős (2018).  
 Published in Random Matrices Theory and Applications (RMTA),  
-
 arXiv version: [arXiv:1806.08751](https://arxiv.org/abs/1806.08751)
 
 2. Cusp universality for random matrices II: The real symmetric case.

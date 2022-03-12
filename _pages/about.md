@@ -24,9 +24,9 @@ After obtaining my PhD 2021 under the supervision of [László Erdős](https://i
 
 ## **Theses**
 
-Thesis [Fluctuations in the spectrum of random matrices] for the PhD in Mathematics, supervised by [László Erdős](https://ist.ac.at/en/research/erdoes-group/).  
-Thesis [Deterministic walks] for the MSc in Theoretical and Mathematical Physics, supervised by [Carlangelo Liverani](https://www.mat.uniroma2.it/~liverani/).  
-Thesis [Equazioni di Hamilton-Jacobi e problemi di controllo ottimale] for the BSc in Mathematics, supervised by [Carlo Sinestari](https://www.mat.uniroma2.it/~sinestra/).  
+- Thesis [Fluctuations in the spectrum of random matrices] for the PhD in Mathematics, supervised by [László Erdős](https://ist.ac.at/en/research/erdoes-group/).  
+- Thesis [Deterministic walks] for the MSc in Theoretical and Mathematical Physics, supervised by [Carlangelo Liverani](https://www.mat.uniroma2.it/~liverani/).  
+- Thesis [Equazioni di Hamilton-Jacobi e problemi di controllo ottimale] for the BSc in Mathematics, supervised by [Carlo Sinestari](https://www.mat.uniroma2.it/~sinestra/).  
 
 
 ### **Contact Information**

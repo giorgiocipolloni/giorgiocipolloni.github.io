@@ -20,7 +20,7 @@ After obtaining my PhD 2021 under the supervision of [László Erdős](https://i
 **2015 – 2017.** MSc, Universita’ degli studi di Roma Tor Vergata.  
 **2012 – 2015.** BSc, Universita’ degli studi di Roma Tor Vergata.
 
-[Curriculum vitae] for more detailed information.
+[Curriculum vitae]("CV_new.pdf") for more detailed information.
 
 ## **Theses**
 

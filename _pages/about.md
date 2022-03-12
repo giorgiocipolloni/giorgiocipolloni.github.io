@@ -29,7 +29,7 @@ After obtaining my PhD 2021 under the supervision of [László Erdős](https://i
 - Thesis [Equazioni di Hamilton-Jacobi e problemi di controllo ottimale] for the BSc in Mathematics, supervised by [Carlo Sinestari](https://www.mat.uniroma2.it/~sinestra/).  
 
 
-### **Contact Information**
+## **Contact Information**
 
 **Email:** gc4233[at]princeton.edu  
 **Phone:** +1 6099339368   

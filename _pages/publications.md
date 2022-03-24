@@ -46,6 +46,7 @@ arXiv version: [arXiv:2012.13215](https://arxiv.org/abs/2012.13215).
 
 8. **Functional Central Limit Theorems for Wigner Matrices**.  
 with László Erdős, Dominik Schröder (2020).  
+Accepted to Annals of Applied Probability (AAP),  
 Preprint: [arXiv:2012.13218](https://arxiv.org/abs/2012.13218). 
 
 9. **Thermalisation for Wigner matrices**.  

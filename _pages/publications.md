@@ -105,4 +105,7 @@ Preprint: [arXiv:2206.12438](https://arxiv.org/abs/2206.12438).
 ## **Proceedings**
 
 1. **Edge Universality for non-Hermitian Random Matrices**.   
-Oberwolfach Rep. 16 (2019), no. 4, pp. 3480–3481.
+Oberwolfach Rep. 16 (2019), no. 4, pp. 3480–3481.  
+
+2. **Fluctuations in the Spectrum of non-Hermitian i.i.d. Matrices**.  
+J. Math. Phys. 63, 053503 (2022).  

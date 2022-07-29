@@ -61,6 +61,7 @@ arXiv version: [arXiv:2103.06730](https://arxiv.org/abs/2103.06730).
 
 11. **On the condition number of the shifted real Ginibre ensemble**.  
 with László Erdős, Dominik Schröder (2021).  
+Accepted to SIAM Journal on Matrix Analysis and Applications (SIMAX).
 Preprint: [arXiv:2105.13719](https://arxiv.org/abs/2105.13719). 
 
 12. **Density of small singular values of the shifted real Ginibre ensemble**.  
@@ -69,7 +70,8 @@ Accepted to Annales Henri Poincaré (AHP),
 Preprint: [arXiv:2105.13720](https://arxiv.org/abs/2105.13720). 
 
 13. **Quenched universality for deformed Wigner matrices**.  
-with László Erdős, Dominik Schröder (2021).  
+with László Erdős, Dominik Schröder (2021). 
+Accepted to Probability Theory and Related Fields (PTRF).
 Preprint: [arXiv:2106.10200](https://arxiv.org/abs/2106.10200). 
 
 14. **On the Spectral Form Factor for Random Matrices**.  
@@ -82,7 +84,23 @@ Preprint: [arXiv:2112.13693](https://arxiv.org/abs/2112.13693).
 
 16. **Rank-uniform local law for Wigner matrices**.  
 with László Erdős, Dominik Schröder (2022).  
-Preprint: [arXiv:2109.06712](https://arxiv.org/abs/2203.01861). 
+Preprint: [arXiv:2109.06712](https://arxiv.org/abs/2203.01861).  
+
+17. **Directional Extremal Statistics for Ginibre Eigenvalues**.    
+with László Erdős, Dominik Schröder, Yuanyuan Xu (2022).  
+Preprint: [arXiv:2206.04443](https://arxiv.org/abs/2206.04443).  
+    
+18. **On the rightmost eigenvalue of non-Hermitian random matrices**. 
+with László Erdős, Dominik Schröder, Yuanyuan Xu (2022).  
+Preprint: [arXiv:2206.04448](https://arxiv.org/abs/2206.04448). 
+    
+19. **Dynamical Localization for Random Band Matrices up to $W\ll N^{1/4}$**.   
+with Ron Peled, Jeffrey Schenker, and Jacob Shapiro (2022).  
+Preprint: [arXiv:2206.05545](https://arxiv.org/abs/2206.05545). 
+    
+20. **Entanglement Entropy of Non-Hermitian Eigenstates and the Ginibre Ensemble**. 
+with with Jonah Kudler-Flam (2022).  
+Preprint: [arXiv:2206.12438](https://arxiv.org/abs/2206.12438). 
 
 ## **Proceedings**
 

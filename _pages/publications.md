@@ -70,7 +70,7 @@ Accepted to Annales Henri Poincaré (AHP),
 Preprint: [arXiv:2105.13720](https://arxiv.org/abs/2105.13720). 
 
 13. **Quenched universality for deformed Wigner matrices**.  
-with László Erdős, Dominik Schröder (2021). 
+with László Erdős, Dominik Schröder (2021).  
 Accepted to Probability Theory and Related Fields (PTRF).  
 Preprint: [arXiv:2106.10200](https://arxiv.org/abs/2106.10200). 
 

@@ -85,7 +85,7 @@ arXiv version: [arXiv:2112.13693](https://arxiv.org/abs/2112.13693).
 
 16. **Rank-uniform local law for Wigner matrices**.  
 with László Erdős, Dominik Schröder.  
-Accepted to Forum of Mathematics Sigma (2022).
+Accepted to Forum of Mathematics Sigma (2022).  
 Preprint: [arXiv:2109.06712](https://arxiv.org/abs/2203.01861).  
 
 17. **Directional Extremal Statistics for Ginibre Eigenvalues**.    

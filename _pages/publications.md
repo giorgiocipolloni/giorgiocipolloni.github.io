@@ -84,11 +84,13 @@ Accepted to Electronic Journal of Probability (2022).
 arXiv version: [arXiv:2112.13693](https://arxiv.org/abs/2112.13693). 
 
 16. **Rank-uniform local law for Wigner matrices**.  
-with László Erdős, Dominik Schröder (2022).  
+with László Erdős, Dominik Schröder.  
+Accepted to Forum of Mathematics Sigma (2022).
 Preprint: [arXiv:2109.06712](https://arxiv.org/abs/2203.01861).  
 
 17. **Directional Extremal Statistics for Ginibre Eigenvalues**.    
-with László Erdős, Dominik Schröder, Yuanyuan Xu (2022).  
+with László Erdős, Dominik Schröder, Yuanyuan Xu.  
+Accepted to Journal of Mathematical Physics (2022). Selected as Editor’s Pick.  
 Preprint: [arXiv:2206.04443](https://arxiv.org/abs/2206.04443).  
     
 18. **On the rightmost eigenvalue of non-Hermitian random matrices**.  

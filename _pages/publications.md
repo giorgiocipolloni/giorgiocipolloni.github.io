@@ -103,7 +103,19 @@ Preprint: [arXiv:2206.05545](https://arxiv.org/abs/2206.05545).
     
 20. **Entanglement Entropy of Non-Hermitian Eigenstates and the Ginibre Ensemble**.  
 with with Jonah Kudler-Flam (2022).  
-Preprint: [arXiv:2206.12438](https://arxiv.org/abs/2206.12438). 
+Preprint: [arXiv:2206.12438](https://arxiv.org/abs/2206.12438).  
+
+21. **Ruminations on Matrix Convexity and the Strong Subadditivity of Quantum Entropy**  
+with Michael Aizenman (2022).  
+Preprint: [arXiv:2210.10729](https://arxiv.org/abs/2210.10729).  
+
+22. **Mesoscopic Central Limit Theorem for non-Hermitian Random Matrices**  
+with László Erdős, Dominik Schröder (2022).  
+Preprint: [arXiv:2210.12060](https://arxiv.org/abs/2210.12060).  
+
+23. **Precise asymptotics for the spectral radius of a large random matrix**  
+with László Erdős, Yuanyuan Xu (2022).  
+Preprint: [arXiv:2210.15643](https://arxiv.org/abs/2210.15643).  
 
 ## **Proceedings**
 

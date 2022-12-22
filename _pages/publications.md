@@ -103,7 +103,7 @@ Preprint: [arXiv:2206.05545](https://arxiv.org/abs/2206.05545).
     
 20. **Entanglement Entropy of Non-Hermitian Eigenstates and the Ginibre Ensemble**.  
 with with Jonah Kudler-Flam.  
-Accepted to Physical Review Letters (2022).
+Accepted to Physical Review Letters (2022).  
 Preprint: [arXiv:2206.12438](https://arxiv.org/abs/2206.12438).  
 
 21. **Ruminations on Matrix Convexity and the Strong Subadditivity of Quantum Entropy**  

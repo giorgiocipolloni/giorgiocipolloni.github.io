@@ -86,7 +86,7 @@ arXiv version: [arXiv:2112.13693](https://arxiv.org/abs/2112.13693).
 16. **Rank-uniform local law for Wigner matrices**.  
 with László Erdős, Dominik Schröder.  
 Accepted to Forum of Mathematics Sigma (2022).  
-Preprint: [arXiv:2109.06712](https://arxiv.org/abs/2203.01861).  
+Preprint: [arXiv:2203.01861](https://arxiv.org/abs/2203.01861).  
 
 17. **Directional Extremal Statistics for Ginibre Eigenvalues**.    
 with László Erdős, Dominik Schröder, Yuanyuan Xu.  
@@ -102,7 +102,8 @@ with Ron Peled, Jeffrey Schenker, and Jacob Shapiro (2022).
 Preprint: [arXiv:2206.05545](https://arxiv.org/abs/2206.05545). 
     
 20. **Entanglement Entropy of Non-Hermitian Eigenstates and the Ginibre Ensemble**.  
-with with Jonah Kudler-Flam (2022).  
+with with Jonah Kudler-Flam.  
+Accepted to Physical Review Letters (2022).
 Preprint: [arXiv:2206.12438](https://arxiv.org/abs/2206.12438).  
 
 21. **Ruminations on Matrix Convexity and the Strong Subadditivity of Quantum Entropy**  
@@ -116,6 +117,10 @@ Preprint: [arXiv:2210.12060](https://arxiv.org/abs/2210.12060).
 23. **Precise asymptotics for the spectral radius of a large random matrix**  
 with László Erdős, Yuanyuan Xu (2022).  
 Preprint: [arXiv:2210.15643](https://arxiv.org/abs/2210.15643).  
+
+24. **Fluctuations of eigenvector overlaps and the Berry conjecture for Wigner matrices**. 
+with Lucas Benigni (2022).  
+Preprint: [arXiv:2212.10694](https://arxiv.org/pdf/2212.10694.pdf).  
 
 ## **Proceedings**
 

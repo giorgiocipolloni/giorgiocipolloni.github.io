@@ -123,7 +123,7 @@ with Lucas Benigni (2022).
 Preprint: [arXiv:2212.10694](https://arxiv.org/pdf/2212.10694.pdf).  
 
 25. **Optimal Lower Bound on Eigenvector Overlaps for non-Hermitian Random Matrices**.    
-with L\'aszl\'o Erd\H{o}s, Joscha Henheik, and Dominik Schr\"oder (2023).    
+with László Erdős, Joscha Henheik, and Dominik Schröder (2023).    
 Preprint: [arXiv:2301.03549](https://arxiv.org/pdf/2301.03549.pdf).  
 
 ## **Proceedings**

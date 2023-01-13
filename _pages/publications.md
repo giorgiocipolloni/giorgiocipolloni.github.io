@@ -126,9 +126,9 @@ Preprint: [arXiv:2212.10694](https://arxiv.org/pdf/2212.10694.pdf).
 with László Erdős, Joscha Henheik, and Dominik Schröder (2023).    
 Preprint: [arXiv:2301.03549](https://arxiv.org/pdf/2301.03549.pdf).  
 
-26. **Gaussian fluctuations in the Equipartition Principle for Wigner matrices**. 
-with László Erdős, Joscha Henheik, and Oleksii Kolupaiev (2023).  
-Preprint: [arXiv:2301.05181](https://arxiv.org/pdf/2301.05181.pdf).
+26. **Gaussian fluctuations in the Equipartition Principle for Wigner matrices**.   
+with László Erdős, Joscha Henheik, and Oleksii Kolupaiev (2023).    
+Preprint: [arXiv:2301.05181](https://arxiv.org/pdf/2301.05181.pdf).  
 
 ## **Proceedings**
 

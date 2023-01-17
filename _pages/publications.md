@@ -107,7 +107,8 @@ Accepted to Physical Review Letters (2022).
 Preprint: [arXiv:2206.12438](https://arxiv.org/abs/2206.12438).  
 
 21. **Ruminations on Matrix Convexity and the Strong Subadditivity of Quantum Entropy**  
-with Michael Aizenman (2022).  
+with Michael Aizenman.  
+Accepted to Letters in Mathematical Physics (2023).  
 Preprint: [arXiv:2210.10729](https://arxiv.org/abs/2210.10729).  
 
 22. **Mesoscopic Central Limit Theorem for non-Hermitian Random Matrices**  

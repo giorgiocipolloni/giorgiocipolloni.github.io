@@ -75,7 +75,8 @@ Accepted to Probability Theory and Related Fields (2022).
 arXiv version: [arXiv:2106.10200](https://arxiv.org/abs/2106.10200). 
 
 14. **On the Spectral Form Factor for Random Matrices**.  
-with László Erdős, Dominik Schröder (2021).  
+with László Erdős, Dominik Schröder.  
+Accepted to Communications in Mathematical Physics (2023).  
 Preprint: [arXiv:2109.06712](https://arxiv.org/abs/2109.06712). 
 
 15. **Optimal multi-resolvent local laws for Wigner matrices**.  

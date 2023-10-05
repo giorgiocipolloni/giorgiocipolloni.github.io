@@ -31,7 +31,7 @@ arXiv version: [arXiv:1908.01653](https://arxiv.org/abs/1908.01653).
 
 5. **Central Limit Theorem for Linear Eigenvalue Statistics of non-Hermitian Random Matrices**.  
 with László Erdős, Dominik Schröder.  
-Accepted to Communications on Pure and Applied Mathematics (2021).    
+Communications on Pure and Applied Mathematics 76.5, 946-1034 (2023).    
 arXiv version: [arXiv:1912.04100](https://arxiv.org/abs/1912.04100). 
 
 6. **Fluctuation Around the Circular Law for Random Matrices with Real Entries**.  
@@ -46,56 +46,57 @@ arXiv version: [arXiv:2012.13215](https://arxiv.org/abs/2012.13215).
 
 8. **Functional Central Limit Theorems for Wigner Matrices**.  
 with László Erdős, Dominik Schröder.  
-Accepted to Annals of Applied Probability (2020).    
+Annals of Applied Probability 33.1, 447-489 (2023).      
 arXiv version: [arXiv:2012.13218](https://arxiv.org/abs/2012.13218). 
 
 9. **Thermalisation for Wigner matrices**.  
 with László Erdős, Dominik Schröder.  
 Journal of Functional Analysis  282, Issue 8 (2022).   
-arXiv veersion: [arXiv:2102.09975](https://arxiv.org/abs/2102.09975). 
+arXiv version: [arXiv:2102.09975](https://arxiv.org/abs/2102.09975). 
 
 10. **Normal fluctuation in quantum ergodicity for Wigner matrices**.  
 with László Erdős, Dominik Schröder (2021).  
-Published in Annals of Probability (AoP),  
+Ann. Probab. 50 (3): 984-1012 (2022).  
 arXiv version: [arXiv:2103.06730](https://arxiv.org/abs/2103.06730).  
 
 11. **On the condition number of the shifted real Ginibre ensemble**.  
 with László Erdős, Dominik Schröder.  
-Accepted to SIAM Journal on Matrix Analysis and Applications (2022).  
+SIAM Journal on Matrix Analysis and Applications 43.3, 1469-1487 (2022).    
 arXiv version: [arXiv:2105.13719](https://arxiv.org/abs/2105.13719). 
 
 12. **Density of small singular values of the shifted real Ginibre ensemble**.  
 with László Erdős, Dominik Schröder.  
-Accepted to Annales Henri Poincaré (2022).  
+Annales Henri Poincar\'e. Vol. 23. No. 11. (2022).   
 arXiv version: [arXiv:2105.13720](https://arxiv.org/abs/2105.13720). 
 
 13. **Quenched universality for deformed Wigner matrices**.  
 with László Erdős, Dominik Schröder.  
-Accepted to Probability Theory and Related Fields (2022).  
+Probability Theory and Related Fields 185.3-4, 1183-1218 (2023).   
 arXiv version: [arXiv:2106.10200](https://arxiv.org/abs/2106.10200). 
 
 14. **On the Spectral Form Factor for Random Matrices**.  
 with László Erdős, Dominik Schröder.  
-Accepted to Communications in Mathematical Physics (2023).  
-Preprint: [arXiv:2109.06712](https://arxiv.org/abs/2109.06712). 
+Communications in Mathematical Physics 401, 1665--1700 (2023).    
+arXiv version: [arXiv:2109.06712](https://arxiv.org/abs/2109.06712). 
 
 15. **Optimal multi-resolvent local laws for Wigner matrices**.  
 with László Erdős, Dominik Schröder.  
-Accepted to Electronic Journal of Probability (2022).  
+Electronic Journal of Probability 27, 1-38 (2022).    
 arXiv version: [arXiv:2112.13693](https://arxiv.org/abs/2112.13693). 
 
 16. **Rank-uniform local law for Wigner matrices**.  
 with László Erdős, Dominik Schröder.  
-Accepted to Forum of Mathematics Sigma (2022).  
-Preprint: [arXiv:2203.01861](https://arxiv.org/abs/2203.01861).  
+Forum of Mathematics, Sigma. Vol. 10 (2022).   
+arXiv version: [arXiv:2203.01861](https://arxiv.org/abs/2203.01861).  
 
 17. **Directional Extremal Statistics for Ginibre Eigenvalues**.    
 with László Erdős, Dominik Schröder, Yuanyuan Xu.  
-Accepted to Journal of Mathematical Physics (2022). Selected as Editor’s Pick.  
-Preprint: [arXiv:2206.04443](https://arxiv.org/abs/2206.04443).  
+Journal of Mathematical Physics 63.10 (2022). Selected as Editor's Pick.
+arXiv version: [arXiv:2206.04443](https://arxiv.org/abs/2206.04443).  
     
 18. **On the rightmost eigenvalue of non-Hermitian random matrices**.  
-with László Erdős, Dominik Schröder, Yuanyuan Xu (2022).  
+with László Erdős, Dominik Schröder, Yuanyuan Xu (2022).
+Accepted to Annals of Probability (2023).  
 Preprint: [arXiv:2206.04448](https://arxiv.org/abs/2206.04448). 
     
 19. **Dynamical Localization for Random Band Matrices up to $W\ll N^{1/4}$**.   
@@ -104,16 +105,17 @@ Preprint: [arXiv:2206.05545](https://arxiv.org/abs/2206.05545).
     
 20. **Entanglement Entropy of Non-Hermitian Eigenstates and the Ginibre Ensemble**.  
 with with Jonah Kudler-Flam.  
-Accepted to Physical Review Letters (2022).  
-Preprint: [arXiv:2206.12438](https://arxiv.org/abs/2206.12438).  
+Physical Review Letters 130.1 (2023).
+arXiv version: [arXiv:2206.12438](https://arxiv.org/abs/2206.12438).  
 
 21. **Ruminations on Matrix Convexity and the Strong Subadditivity of Quantum Entropy**  
 with Michael Aizenman.  
-Accepted to Letters in Mathematical Physics (2023).  
-Preprint: [arXiv:2210.10729](https://arxiv.org/abs/2210.10729).  
+Letters in Mathematical Physics 113.1 (2023).
+arXiv version: [arXiv:2210.10729](https://arxiv.org/abs/2210.10729).  
 
 22. **Mesoscopic Central Limit Theorem for non-Hermitian Random Matrices**  
-with László Erdős, Dominik Schröder (2022).  
+with László Erdős, Dominik Schröder (2022).
+Accepted to Probability Theory and Related Fields (2023).  
 Preprint: [arXiv:2210.12060](https://arxiv.org/abs/2210.12060).  
 
 23. **Precise asymptotics for the spectral radius of a large random matrix**  
@@ -129,8 +131,21 @@ with László Erdős, Joscha Henheik, and Dominik Schröder (2023).
 Preprint: [arXiv:2301.03549](https://arxiv.org/pdf/2301.03549.pdf).  
 
 26. **Gaussian fluctuations in the Equipartition Principle for Wigner matrices**.   
-with László Erdős, Joscha Henheik, and Oleksii Kolupaiev (2023).    
-Preprint: [arXiv:2301.05181](https://arxiv.org/pdf/2301.05181.pdf).  
+with László Erdős, Joscha Henheik, and Oleksii Kolupaiev.  
+Forum of Mathematics, Sigma. Vol. 11 (2023).     
+arXiv version: [arXiv:2301.05181](https://arxiv.org/pdf/2301.05181.pdf).
+
+27. **Non-Hermitian Hamiltonians Violate the Eigenstate Thermalization Hypothesis**
+with Jonah Kudler-Flam (2023).
+Preprint: [arXiv:2303.03448 ](https://arxiv.org/pdf/2303.03448.pdf).
+
+28. **The Dissipative Spectral Form Factor for I.I.D. Matrices**
+with Nicoló Grometto (2023).
+Preprint: [arXiv:2306.16262](https://arxiv.org/pdf/2306.16262.pdf).
+
+29. **Eigenstate thermalisation at the edge for Wigner matrices**
+with László Erdős, Joscha Henheik (2023).
+Preprint: [arXiv:2309.05488](https://arxiv.org/pdf/2309.05488.pdf).  
 
 ## **Proceedings**
 

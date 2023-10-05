@@ -135,17 +135,17 @@ with László Erdős, Joscha Henheik, and Oleksii Kolupaiev.
 Forum of Mathematics, Sigma. Vol. 11 (2023).     
 arXiv version: [arXiv:2301.05181](https://arxiv.org/pdf/2301.05181.pdf).
 
-27. **Non-Hermitian Hamiltonians Violate the Eigenstate Thermalization Hypothesis**
-with Jonah Kudler-Flam (2023).
-Preprint: [arXiv:2303.03448 ](https://arxiv.org/pdf/2303.03448.pdf).
+27. **Non-Hermitian Hamiltonians Violate the Eigenstate Thermalization Hypothesis**  
+with Jonah Kudler-Flam (2023).  
+Preprint: [arXiv:2303.03448 ](https://arxiv.org/pdf/2303.03448.pdf).  
 
-28. **The Dissipative Spectral Form Factor for I.I.D. Matrices**
-with Nicoló Grometto (2023).
-Preprint: [arXiv:2306.16262](https://arxiv.org/pdf/2306.16262.pdf).
+28. **The Dissipative Spectral Form Factor for I.I.D. Matrices**  
+with Nicoló Grometto (2023).  
+Preprint: [arXiv:2306.16262](https://arxiv.org/pdf/2306.16262.pdf).  
 
-29. **Eigenstate thermalisation at the edge for Wigner matrices**
-with László Erdős, Joscha Henheik (2023).
-Preprint: [arXiv:2309.05488](https://arxiv.org/pdf/2309.05488.pdf).  
+29. **Eigenstate thermalisation at the edge for Wigner matrices**  
+with László Erdős, Joscha Henheik (2023).  
+Preprint: [arXiv:2309.05488](https://arxiv.org/pdf/2309.05488.pdf).    
 
 ## **Proceedings**
 

@@ -145,7 +145,15 @@ Preprint: [arXiv:2306.16262](https://arxiv.org/pdf/2306.16262.pdf).
 
 29. **Eigenstate thermalisation at the edge for Wigner matrices**  
 with László Erdős, Joscha Henheik (2023).  
-Preprint: [arXiv:2309.05488](https://arxiv.org/pdf/2309.05488.pdf).    
+Preprint: [arXiv:2309.05488](https://arxiv.org/pdf/2309.05488.pdf).
+
+30. **Universality of extremal eigenvalues of large random matrices**
+with László Erdős, Yuanyuan Xu (2023).  
+Preprint: [arXiv:2312.08325]((https://arxiv.org/pdf/2312.08325.pdf)).
+
+31. **Out--of--time--ordered correlators for Wigner matrices**.  
+with László Erdős, Joscha Henheik (2024).  
+Preprint: [arXiv:2402.17609]((https://arxiv.org/pdf/2402.17609.pdf)).
 
 ## **Proceedings**
 

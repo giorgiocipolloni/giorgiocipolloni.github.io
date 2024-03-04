@@ -91,7 +91,7 @@ arXiv version: [arXiv:2203.01861](https://arxiv.org/abs/2203.01861).
 
 17. **Directional Extremal Statistics for Ginibre Eigenvalues**.    
 with László Erdős, Dominik Schröder, Yuanyuan Xu.  
-Journal of Mathematical Physics 63.10 (2022). Selected as Editor's Pick.
+Journal of Mathematical Physics 63.10 (2022). Selected as Editor's Pick.  
 arXiv version: [arXiv:2206.04443](https://arxiv.org/abs/2206.04443).  
     
 18. **On the rightmost eigenvalue of non-Hermitian random matrices**.  
@@ -106,7 +106,7 @@ Preprint: [arXiv:2206.05545](https://arxiv.org/abs/2206.05545).
     
 21. **Entanglement Entropy of Non-Hermitian Eigenstates and the Ginibre Ensemble**.  
 with with Jonah Kudler-Flam.  
-Physical Review Letters 130.1 (2023).
+Physical Review Letters 130.1 (2023).  
 arXiv version: [arXiv:2206.12438](https://arxiv.org/abs/2206.12438).  
 
 22. **Ruminations on Matrix Convexity and the Strong Subadditivity of Quantum Entropy**  
@@ -134,15 +134,15 @@ Preprint: [arXiv:2301.03549](https://arxiv.org/pdf/2301.03549.pdf).
 27. **Gaussian fluctuations in the Equipartition Principle for Wigner matrices**.   
 with László Erdős, Joscha Henheik, and Oleksii Kolupaiev.  
 Forum of Mathematics, Sigma. Vol. 11 (2023).     
-arXiv version: [arXiv:2301.05181](https://arxiv.org/pdf/2301.05181.pdf).
+arXiv version: [arXiv:2301.05181](https://arxiv.org/pdf/2301.05181.pdf).  
 
 28. **Non-Hermitian Hamiltonians Violate the Eigenstate Thermalization Hypothesis**  
-with Jonah Kudler-Flam (2023).
+with Jonah Kudler-Flam (2023).  
 Accepted to Physical Review B (2024).    
 Preprint: [arXiv:2303.03448 ](https://arxiv.org/pdf/2303.03448.pdf).  
 
 30. **The Dissipative Spectral Form Factor for I.I.D. Matrices**  
-with Nicoló Grometto (2023).
+with Nicoló Grometto (2023).  
 Accepted to Journal of Statistical Physics (2024).   
 Preprint: [arXiv:2306.16262](https://arxiv.org/pdf/2306.16262.pdf).  
 

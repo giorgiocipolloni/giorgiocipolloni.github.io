@@ -115,7 +115,7 @@ Letters in Mathematical Physics 113.1 (2023).
 arXiv version: [arXiv:2210.10729](https://arxiv.org/abs/2210.10729).  
 
 23. **Mesoscopic Central Limit Theorem for non-Hermitian Random Matrices**  
-with László Erdős, Dominik Schröder (2022).
+with László Erdős, Dominik Schröder (2022).  
 Accepted to Probability Theory and Related Fields (2023).  
 Preprint: [arXiv:2210.12060](https://arxiv.org/abs/2210.12060).  
 

@@ -95,12 +95,12 @@ Journal of Mathematical Physics 63.10 (2022). Selected as Editor's Pick.
 arXiv version: [arXiv:2206.04443](https://arxiv.org/abs/2206.04443).  
     
 18. **On the rightmost eigenvalue of non-Hermitian random matrices**.  
-with László Erdős, Dominik Schröder, Yuanyuan Xu (2022).
+with László Erdős, Dominik Schröder, Yuanyuan Xu (2022).  
 Accepted to Annals of Probability (2023).  
 Preprint: [arXiv:2206.04448](https://arxiv.org/abs/2206.04448). 
     
 19. **Dynamical Localization for Random Band Matrices up to $W\ll N^{1/4}$**.   
-with Ron Peled, Jeffrey Schenker, and Jacob Shapiro (2022).
+with Ron Peled, Jeffrey Schenker, and Jacob Shapiro (2022).  
 Accepted to Communication in Mathematical Physics (2024).  
 Preprint: [arXiv:2206.05545](https://arxiv.org/abs/2206.05545). 
     
@@ -111,7 +111,7 @@ arXiv version: [arXiv:2206.12438](https://arxiv.org/abs/2206.12438).
 
 22. **Ruminations on Matrix Convexity and the Strong Subadditivity of Quantum Entropy**  
 with Michael Aizenman.  
-Letters in Mathematical Physics 113.1 (2023).
+Letters in Mathematical Physics 113.1 (2023).  
 arXiv version: [arXiv:2210.10729](https://arxiv.org/abs/2210.10729).  
 
 23. **Mesoscopic Central Limit Theorem for non-Hermitian Random Matrices**  

@@ -19,7 +19,7 @@ with László Erdős, Torben Krüger, Dominik Schröder.
 Pure Appl. Anal. 1, 615-707 (2019).    
 arXiv version: [arXiv:1811.04055](https://arxiv.org/abs/1811.04055). 
 
-3. **Edge Universality for non-Hermitian Random Matrices**  
+3. **Edge Universality for non-Hermitian Random Matrices**.   
 with László Erdős, Dominik Schröder.  
 Probab. Theory and Related Fields 179, 1–28 (2021).      
 arXiv version: [arXiv:1908.00969](https://arxiv.org/abs/1908.00969).  
@@ -109,17 +109,17 @@ with with Jonah Kudler-Flam.
 Physical Review Letters 130.1 (2023).  
 arXiv version: [arXiv:2206.12438](https://arxiv.org/abs/2206.12438).  
 
-22. **Ruminations on Matrix Convexity and the Strong Subadditivity of Quantum Entropy**  
+22. **Ruminations on Matrix Convexity and the Strong Subadditivity of Quantum Entropy**.  
 with Michael Aizenman.  
 Letters in Mathematical Physics 113.1 (2023).  
 arXiv version: [arXiv:2210.10729](https://arxiv.org/abs/2210.10729).  
 
-23. **Mesoscopic Central Limit Theorem for non-Hermitian Random Matrices**  
+23. **Mesoscopic Central Limit Theorem for non-Hermitian Random Matrices**.  
 with László Erdős, Dominik Schröder (2022).  
 Accepted to Probability Theory and Related Fields (2023).  
 Preprint: [arXiv:2210.12060](https://arxiv.org/abs/2210.12060).  
 
-24. **Precise asymptotics for the spectral radius of a large random matrix**  
+24. **Precise asymptotics for the spectral radius of a large random matrix**.  
 with László Erdős, Yuanyuan Xu (2022).  
 Preprint: [arXiv:2210.15643](https://arxiv.org/abs/2210.15643).  
 
@@ -136,25 +136,25 @@ with László Erdős, Joscha Henheik, and Oleksii Kolupaiev.
 Forum of Mathematics, Sigma. Vol. 11 (2023).     
 arXiv version: [arXiv:2301.05181](https://arxiv.org/pdf/2301.05181.pdf).  
 
-28. **Non-Hermitian Hamiltonians Violate the Eigenstate Thermalization Hypothesis**  
+28. **Non-Hermitian Hamiltonians Violate the Eigenstate Thermalization Hypothesis**.  
 with Jonah Kudler-Flam (2023).  
 Accepted to Physical Review B (2024).    
 Preprint: [arXiv:2303.03448 ](https://arxiv.org/pdf/2303.03448.pdf).  
 
-30. **The Dissipative Spectral Form Factor for I.I.D. Matrices**  
+30. **The Dissipative Spectral Form Factor for I.I.D. Matrices**.  
 with Nicoló Grometto (2023).  
 Accepted to Journal of Statistical Physics (2024).   
 Preprint: [arXiv:2306.16262](https://arxiv.org/pdf/2306.16262.pdf).  
 
-32. **Eigenstate thermalisation at the edge for Wigner matrices**  
+32. **Eigenstate thermalisation at the edge for Wigner matrices**.  
 with László Erdős, Joscha Henheik (2023).  
 Preprint: [arXiv:2309.05488](https://arxiv.org/pdf/2309.05488.pdf).
 
-33. **Universality of extremal eigenvalues of large random matrices**  
+33. **Universality of extremal eigenvalues of large random matrices**.   
 with László Erdős, Yuanyuan Xu (2023).  
 Preprint: [arXiv:2312.08325](https://arxiv.org/pdf/2312.08325.pdf).  
 
-34. **Out-of-time-ordered correlators for Wigner matrices**  
+34. **Out-of-time-ordered correlators for Wigner matrices**.  
 with László Erdős, Joscha Henheik (2024).  
 Preprint: [arXiv:2402.17609](https://arxiv.org/pdf/2402.17609.pdf).
 

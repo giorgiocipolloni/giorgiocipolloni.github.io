@@ -104,31 +104,32 @@ with Ron Peled, Jeffrey Schenker, and Jacob Shapiro (2022).
 Accepted to Communication in Mathematical Physics (2024).  
 Preprint: [arXiv:2206.05545](https://arxiv.org/abs/2206.05545). 
     
-21. **Entanglement Entropy of Non-Hermitian Eigenstates and the Ginibre Ensemble**.  
+20. **Entanglement Entropy of Non-Hermitian Eigenstates and the Ginibre Ensemble**.  
 with with Jonah Kudler-Flam.  
 Physical Review Letters 130.1 (2023).  
 arXiv version: [arXiv:2206.12438](https://arxiv.org/abs/2206.12438).  
 
-22. **Ruminations on Matrix Convexity and the Strong Subadditivity of Quantum Entropy**.  
+21. **Ruminations on Matrix Convexity and the Strong Subadditivity of Quantum Entropy**.  
 with Michael Aizenman.  
 Letters in Mathematical Physics 113.1 (2023).  
 arXiv version: [arXiv:2210.10729](https://arxiv.org/abs/2210.10729).  
 
-23. **Mesoscopic Central Limit Theorem for non-Hermitian Random Matrices**.  
+22. **Mesoscopic Central Limit Theorem for non-Hermitian Random Matrices**.  
 with László Erdős, Dominik Schröder (2022).  
 Accepted to Probability Theory and Related Fields (2023).  
 Preprint: [arXiv:2210.12060](https://arxiv.org/abs/2210.12060).  
 
-24. **Precise asymptotics for the spectral radius of a large random matrix**.  
+23. **Precise asymptotics for the spectral radius of a large random matrix**.  
 with László Erdős, Yuanyuan Xu (2022).  
 Preprint: [arXiv:2210.15643](https://arxiv.org/abs/2210.15643).  
 
-25. **Fluctuations of eigenvector overlaps and the Berry conjecture for Wigner matrices**.  
+24. **Fluctuations of eigenvector overlaps and the Berry conjecture for Wigner matrices**.  
 with Lucas Benigni (2022).  
 Preprint: [arXiv:2212.10694](https://arxiv.org/pdf/2212.10694.pdf).  
 
-26. **Optimal Lower Bound on Eigenvector Overlaps for non-Hermitian Random Matrices**.    
-with László Erdős, Joscha Henheik, and Dominik Schröder (2023).    
+25. **Optimal Lower Bound on Eigenvector Overlaps for non-Hermitian Random Matrices**.    
+with László Erdős, Joscha Henheik, and Dominik Schröder (2023).
+Accepted to Journal of Functional Analysis (2024).      
 Preprint: [arXiv:2301.03549](https://arxiv.org/pdf/2301.03549.pdf).  
 
 27. **Gaussian fluctuations in the Equipartition Principle for Wigner matrices**.   
@@ -141,22 +142,34 @@ with Jonah Kudler-Flam (2023).
 Accepted to Physical Review B (2024).    
 Preprint: [arXiv:2303.03448 ](https://arxiv.org/pdf/2303.03448.pdf).  
 
-30. **The Dissipative Spectral Form Factor for I.I.D. Matrices**.  
+29. **The Dissipative Spectral Form Factor for I.I.D. Matrices**.  
 with Nicoló Grometto (2023).  
 Accepted to Journal of Statistical Physics (2024).   
 Preprint: [arXiv:2306.16262](https://arxiv.org/pdf/2306.16262.pdf).  
 
-32. **Eigenstate thermalisation at the edge for Wigner matrices**.  
+30. **Eigenstate thermalisation at the edge for Wigner matrices**.  
 with László Erdős, Joscha Henheik (2023).  
 Preprint: [arXiv:2309.05488](https://arxiv.org/pdf/2309.05488.pdf).
 
-33. **Universality of extremal eigenvalues of large random matrices**.   
+31. **Universality of extremal eigenvalues of large random matrices**.   
 with László Erdős, Yuanyuan Xu (2023).  
 Preprint: [arXiv:2312.08325](https://arxiv.org/pdf/2312.08325.pdf).  
 
-34. **Out-of-time-ordered correlators for Wigner matrices**.  
+32. **Out-of-time-ordered correlators for Wigner matrices**.  
 with László Erdős, Joscha Henheik (2024).  
 Preprint: [arXiv:2402.17609](https://arxiv.org/pdf/2402.17609.pdf).
+
+33. **On the spectral edge of non-Hermitian random matrices**.  
+with Andrew Campbell, László Erdős, Hong Chang Ji (2024).  
+Preprint: [arXiv:2404.17512](https://arxiv.org/pdf/2404.17512).
+
+34. **Maximum of the Characteristic Polynomial of I.I.D. Matrices**.  
+with Benjamin Landon (2024).  
+Preprint: [arXiv:2405.05045](https://arxiv.org/pdf/2405.05045).
+
+35. **Matrix Concentration Inequalities and Free Probability II. Two--sided Bounds and Applications**.  
+with Afonso S. Bandeira, Dominik Schröder, and Ramon Van Handel (2024).   
+Preprint: [arXiv:2406.11453](https://arxiv.org/pdf/2406.11453).
 
 ## **Proceedings**
 

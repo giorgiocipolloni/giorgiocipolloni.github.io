@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-After obtaining my PhD 2021 under the supervision of [László Erdős](https://ist.ac.at/en/research/erdoes-group/) at the *Institute of Science and Technology Austria*, since September 2021 I have been a research fellow at the [Princeton Center for Theoretical Science](https://pcts.princeton.edu). My research interests are probability theory and mathematical physics with a focus on random matrices, statistical mechanics, and dynamical systems.
+Since Ausgust 2024, I am an Assistant Professor in the [Department of Mathematics at the University of Arizona](https://www.math.arizona.edu/?check_logged_in=1). Previously, after obtaining my PhD 2021 under the supervision of [László Erdős](https://ist.ac.at/en/research/erdoes-group/) at the *Institute of Science and Technology Austria*, I have been a research fellow at the [Princeton Center for Theoretical Science](https://pcts.princeton.edu). My research interests are probability theory and mathematical physics with a focus on random matrices, statistical mechanics, and dynamical systems.
 
 
 
 ## **Curriculum vitae**
-  
-**09/2021 – present.** Research fellow, Princeton Center for Theoretical Science (PCTS), Princeton University.  
+
+**08/2024 – present.** Assistant Professor, University of Arizona. 
+**09/2021 – 08/2024.** Research fellow, Princeton Center for Theoretical Science (PCTS), Princeton University.  
 **02/2021 – 08/2021.** Postdoc, IST Austria.  
 **09/2017 – 01/2021.** PhD, IST Austria.  
 **2015 – 2017.** MSc, Universita’ degli studi di Roma Tor Vergata.  
@@ -31,11 +32,10 @@ After obtaining my PhD 2021 under the supervision of [László Erdős](https://i
 
 ## **Contact Information**
 
-**Email:** gc4233[at]princeton.edu  
+**Email:** gcipolloni[at]arizona.edu  
 **Phone:** +1 6099339368   
-**Office:** 414B (Jadwin Hall, 4th floor)  
+**Office:** 363 (ENR 2, 3rd floor)  
 **Postal Address:**    
-Princeton Center for Theoretical Science, Princeton University,  
-08544 Princeton, New Jersey.  
+1064 E Lowell St, Tucson, AZ 85719.  
 
 

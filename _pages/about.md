@@ -14,7 +14,7 @@ Since Ausgust 2024, I am an Assistant Professor in the [Department of Mathematic
 
 ## **Curriculum vitae**
 
-**08/2024 – present.** Assistant Professor, University of Arizona. 
+**08/2024 – present.** Assistant Professor, University of Arizona.   
 **09/2021 – 08/2024.** Research fellow, Princeton Center for Theoretical Science (PCTS), Princeton University.  
 **02/2021 – 08/2021.** Postdoc, IST Austria.  
 **09/2017 – 01/2021.** PhD, IST Austria.  
@@ -35,7 +35,6 @@ Since Ausgust 2024, I am an Assistant Professor in the [Department of Mathematic
 **Email:** gcipolloni[at]arizona.edu  
 **Phone:** +1 6099339368   
 **Office:** 363 (ENR 2, 3rd floor)  
-**Postal Address:**    
-1064 E Lowell St, Tucson, AZ 85719.  
+**Postal Address:**   1064 E Lowell St, Tucson, AZ 85719  
 
 

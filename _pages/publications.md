@@ -158,7 +158,7 @@ with László Erdős, Yuanyuan Xu (2023).
 Preprint: [arXiv:2312.08325](https://arxiv.org/pdf/2312.08325.pdf).  
 
 31. **Out-of-time-ordered correlators for Wigner matrices**.  
-with László Erdős, Joscha Henheik (2024).
+with László Erdős, Joscha Henheik (2024).  
 Accepted to Advances in Theoretical and Mathematical Physics.   
 Preprint: [arXiv:2402.17609](https://arxiv.org/pdf/2402.17609.pdf).
 

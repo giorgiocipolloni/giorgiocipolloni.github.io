@@ -174,9 +174,9 @@ Preprint: [arXiv:2405.05045](https://arxiv.org/pdf/2405.05045).
 with Afonso S. Bandeira, Dominik Schröder, and Ramon Van Handel (2024).   
 Preprint: [arXiv:2406.11453](https://arxiv.org/pdf/2406.11453).
 
-35. **Fluctuations for non--Hermitian dynamics**.
-with Paul Bourgade, and Jiaoyang Huang (2024).
-Preprint: [arXiv:2409.02902](https://arxiv.org/pdf/2409.02902).
+35. **Fluctuations for non--Hermitian dynamics**.  
+with Paul Bourgade, and Jiaoyang Huang (2024).  
+Preprint: [arXiv:2409.02902](https://arxiv.org/pdf/2409.02902).  
 
 ## **Proceedings**
 

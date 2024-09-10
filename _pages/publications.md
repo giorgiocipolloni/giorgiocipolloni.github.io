@@ -126,55 +126,56 @@ J. Math. Phys. Vol. 65, Iss. 6 (2024).
 Preprint: [arXiv:2210.15643](https://arxiv.org/abs/2210.15643).  
 
 24. **Fluctuations of eigenvector overlaps and the Berry conjecture for Wigner matrices**.  
-with Lucas Benigni (2022).  
+with Lucas Benigni (2022).
+Accepted to Electronic Journal of Probability.  
 Preprint: [arXiv:2212.10694](https://arxiv.org/pdf/2212.10694.pdf).  
 
-25. **Optimal Lower Bound on Eigenvector Overlaps for non-Hermitian Random Matrices**.    
+26. **Optimal Lower Bound on Eigenvector Overlaps for non-Hermitian Random Matrices**.    
 with László Erdős, Joscha Henheik, and Dominik Schröder.    
 Journal of Functional Analysis Vol. 287, Iss. 4 (2024).        
 Preprint: [arXiv:2301.03549](https://arxiv.org/pdf/2301.03549.pdf).  
 
-26. **Gaussian fluctuations in the Equipartition Principle for Wigner matrices**.   
+27. **Gaussian fluctuations in the Equipartition Principle for Wigner matrices**.   
 with László Erdős, Joscha Henheik, and Oleksii Kolupaiev.  
 Forum of Mathematics, Sigma. Vol. 11 (2023).     
 arXiv version: [arXiv:2301.05181](https://arxiv.org/pdf/2301.05181.pdf).  
 
-27. **Non-Hermitian Hamiltonians Violate the Eigenstate Thermalization Hypothesis**.  
+28. **Non-Hermitian Hamiltonians Violate the Eigenstate Thermalization Hypothesis**.  
 with Jonah Kudler-Flam.    
 Phys. Rev. B Vol. 109 (2024). Editor's pick.     
 Preprint: [arXiv:2303.03448 ](https://arxiv.org/pdf/2303.03448.pdf).  
 
-28. **The Dissipative Spectral Form Factor for I.I.D. Matrices**.  
+29. **The Dissipative Spectral Form Factor for I.I.D. Matrices**.  
 with Nicoló Grometto.    
 Journal of Statistical Physics Vol. 191, No. 21 (2024).     
 Preprint: [arXiv:2306.16262](https://arxiv.org/pdf/2306.16262.pdf).  
 
-29. **Eigenstate thermalisation at the edge for Wigner matrices**.  
+30. **Eigenstate thermalisation at the edge for Wigner matrices**.  
 with László Erdős, Joscha Henheik (2023).  
 Preprint: [arXiv:2309.05488](https://arxiv.org/pdf/2309.05488.pdf).
 
-30. **Universality of extremal eigenvalues of large random matrices**.   
+31. **Universality of extremal eigenvalues of large random matrices**.   
 with László Erdős, Yuanyuan Xu (2023).  
 Preprint: [arXiv:2312.08325](https://arxiv.org/pdf/2312.08325.pdf).  
 
-31. **Out-of-time-ordered correlators for Wigner matrices**.  
+32. **Out-of-time-ordered correlators for Wigner matrices**.  
 with László Erdős, Joscha Henheik (2024).  
 Accepted to Advances in Theoretical and Mathematical Physics.   
 Preprint: [arXiv:2402.17609](https://arxiv.org/pdf/2402.17609.pdf).
 
-32. **On the spectral edge of non-Hermitian random matrices**.  
+33. **On the spectral edge of non-Hermitian random matrices**.  
 with Andrew Campbell, László Erdős, Hong Chang Ji (2024).  
 Preprint: [arXiv:2404.17512](https://arxiv.org/pdf/2404.17512).
 
-33. **Maximum of the Characteristic Polynomial of I.I.D. Matrices**.  
+34. **Maximum of the Characteristic Polynomial of I.I.D. Matrices**.  
 with Benjamin Landon (2024).  
 Preprint: [arXiv:2405.05045](https://arxiv.org/pdf/2405.05045).
 
-34. **Matrix Concentration Inequalities and Free Probability II. Two--sided Bounds and Applications**.  
+35. **Matrix Concentration Inequalities and Free Probability II. Two--sided Bounds and Applications**.  
 with Afonso S. Bandeira, Dominik Schröder, and Ramon Van Handel (2024).   
 Preprint: [arXiv:2406.11453](https://arxiv.org/pdf/2406.11453).
 
-35. **Fluctuations for non--Hermitian dynamics**.  
+36. **Fluctuations for non--Hermitian dynamics**.  
 with Paul Bourgade, and Jiaoyang Huang (2024).  
 Preprint: [arXiv:2409.02902](https://arxiv.org/pdf/2409.02902).  
 

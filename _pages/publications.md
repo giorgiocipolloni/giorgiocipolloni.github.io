@@ -126,7 +126,7 @@ J. Math. Phys. Vol. 65, Iss. 6 (2024).
 Preprint: [arXiv:2210.15643](https://arxiv.org/abs/2210.15643).  
 
 24. **Fluctuations of eigenvector overlaps and the Berry conjecture for Wigner matrices**.  
-with Lucas Benigni (2022).
+with Lucas Benigni (2022).  
 Accepted to Electronic Journal of Probability.  
 Preprint: [arXiv:2212.10694](https://arxiv.org/pdf/2212.10694.pdf).  
 

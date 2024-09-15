@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since Ausgust 2024, I am an Assistant Professor in the [Department of Mathematics at the University of Arizona](https://www.math.arizona.edu/?check_logged_in=1). Previously, after obtaining my PhD 2021 under the supervision of [László Erdős](https://ist.ac.at/en/research/erdoes-group/) at the *Institute of Science and Technology Austria*, I have been a research fellow at the [Princeton Center for Theoretical Science](https://pcts.princeton.edu). My research interests are probability theory and mathematical physics with a focus on random matrices, statistical mechanics, and dynamical systems.
+Since Ausgust 2024, I am an Assistant Professor in the [Department of Mathematics at the University of Arizona](https://www.math.arizona.edu/?check_logged_in=1). Previously, I was a research fellow at the [Princeton Center for Theoretical Science](https://pcts.princeton.edu). Before that, I obtained my PhD in 2021 under the supervision of [László Erdős](https://ist.ac.at/en/research/erdoes-group/) at the *Institute of Science and Technology Austria*. My research interests are probability theory and mathematical physics with a focus on random matrices, statistical mechanics, and dynamical systems.
 
 
 

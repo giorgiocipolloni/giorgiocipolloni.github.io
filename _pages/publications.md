@@ -183,6 +183,10 @@ Preprint: [arXiv:2409.02902](https://arxiv.org/pdf/2409.02902).
 with László Erdős, and Hong Chang Ji (2024).  
 Preprint: [arXiv:2409.17030](https://arxiv.org/pdf/2409.17030).
 
+37. **Eigenvector decorrelation for random matrices**.   
+with László Erdős, Joscha Henheik, and Oleksii Kolupaiev (2024).  
+Preprint: [arXiv:2410.10718](https://arxiv.org/pdf/2410.10718).  
+
 ## **Proceedings**
 
 1. **Edge Universality for non-Hermitian Random Matrices**.   

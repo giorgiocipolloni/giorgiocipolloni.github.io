@@ -185,7 +185,11 @@ Preprint: [arXiv:2409.17030](https://arxiv.org/pdf/2409.17030).
 
 37. **Eigenvector decorrelation for random matrices**.   
 with László Erdős, Joscha Henheik, and Oleksii Kolupaiev (2024).  
-Preprint: [arXiv:2410.10718](https://arxiv.org/pdf/2410.10718).  
+Preprint: [arXiv:2410.10718](https://arxiv.org/pdf/2410.10718).
+
+38. **Optimal decay of eigenvector overlap for non-Hermitian random matrices**.
+with László Erdős, Yuanyuan Xu (2024).
+Preprint: [2411.16572](https://arxiv.org/pdf/2411.16572).
 
 ## **Proceedings**
 

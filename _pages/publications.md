@@ -159,16 +159,18 @@ with László Erdős, Yuanyuan Xu (2023).
 Preprint: [arXiv:2312.08325](https://arxiv.org/pdf/2312.08325.pdf).  
 
 31. **Out-of-time-ordered correlators for Wigner matrices**.  
-with László Erdős, Joscha Henheik (2024).  
-Accepted to Advances in Theoretical and Mathematical Physics.   
-Preprint: [arXiv:2402.17609](https://arxiv.org/pdf/2402.17609.pdf).
+with László Erdős, Joscha Henheik.    
+Advances in Theoretical and Mathematical Physics Vol. 28, 2025-2083 (2024).   
+arXiv version: [arXiv:2402.17609](https://arxiv.org/pdf/2402.17609.pdf).
 
 32. **On the spectral edge of non-Hermitian random matrices**.  
-with Andrew Campbell, László Erdős, Hong Chang Ji (2024).  
+with Andrew Campbell, László Erdős, Hong Chang Ji.
+Accepted to Annals of Probability (2025).  
 Preprint: [arXiv:2404.17512](https://arxiv.org/pdf/2404.17512).
 
 33. **Maximum of the Characteristic Polynomial of I.I.D. Matrices**.  
-with Benjamin Landon (2024).  
+with Benjamin Landon.  
+Accepted to Communications on Pure and Applied Mathematics (2025).   
 Preprint: [arXiv:2405.05045](https://arxiv.org/pdf/2405.05045).
 
 34. **Matrix Concentration Inequalities and Free Probability II. Two--sided Bounds and Applications**.  
@@ -190,6 +192,10 @@ Preprint: [arXiv:2410.10718](https://arxiv.org/pdf/2410.10718).
 38. **Optimal decay of eigenvector overlap for non-Hermitian random matrices**.  
 with László Erdős, Yuanyuan Xu (2024).  
 Preprint: [arXiv:2411.16572](https://arxiv.org/pdf/2411.16572).
+
+39. **Decorrelation transition in the Wigner minor process**.   
+with Zhigang Bao, László Erdős, Joscha Henheik, and Oleksii Kolupaiev (2025).   
+Preprint: [arXiv:2503.06549](https://arxiv.org/pdf/2503.06549).
 
 ## **Proceedings**
 

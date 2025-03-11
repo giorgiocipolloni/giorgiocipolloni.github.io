@@ -164,7 +164,7 @@ Advances in Theoretical and Mathematical Physics Vol. 28, 2025-2083 (2024).
 arXiv version: [arXiv:2402.17609](https://arxiv.org/pdf/2402.17609.pdf).
 
 32. **On the spectral edge of non-Hermitian random matrices**.  
-with Andrew Campbell, László Erdős, Hong Chang Ji.
+with Andrew Campbell, László Erdős, Hong Chang Ji.   
 Accepted to Annals of Probability (2025).  
 Preprint: [arXiv:2404.17512](https://arxiv.org/pdf/2404.17512).
 

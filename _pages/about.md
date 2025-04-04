@@ -15,7 +15,7 @@ Since Ausgust 2024, I am an Assistant Professor in the [Department of Mathematic
 ## **Curriculum vitae**
 
 **08/2024 – present.** Assistant Professor, University of Arizona.   
-**09/2021 – 08/2024.** Research fellow, Princeton Center for Theoretical Science (PCTS), Princeton University.  
+**09/2021 – 08/2024.** Research fellow, Princeton Center for Theoretical Science (PCTS) and Department of Mathematics, Princeton University.  
 **02/2021 – 08/2021.** Postdoc, IST Austria.  
 **09/2017 – 01/2021.** PhD, IST Austria.  
 **2015 – 2017.** MSc, Universita’ degli studi di Roma Tor Vergata.  

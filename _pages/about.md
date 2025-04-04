@@ -21,7 +21,7 @@ Since Ausgust 2024, I am an Assistant Professor in the [Department of Mathematic
 **2015 – 2017.** MSc, Universita’ degli studi di Roma Tor Vergata.  
 **2012 – 2015.** BSc, Universita’ degli studi di Roma Tor Vergata.
 
-[Curriculum vitae](/files/CV_new.pdf) for more detailed information.
+[Curriculum vitae](/files/CV_new_ita.pdf) for more detailed information.
 
 ## **Theses**
 

@@ -191,11 +191,15 @@ Preprint: [arXiv:2410.10718](https://arxiv.org/pdf/2410.10718).
 
 38. **Optimal decay of eigenvector overlap for non-Hermitian random matrices**.  
 with László Erdős, Yuanyuan Xu (2024).  
-Preprint: [arXiv:2411.16572](https://arxiv.org/pdf/2411.16572).
+Preprint: [arXiv:2411.16572](https://arxiv.org/pdf/2411.16572).  
 
-39. **Decorrelation transition in the Wigner minor process**.   
-with Zhigang Bao, László Erdős, Joscha Henheik, and Oleksii Kolupaiev (2025).   
+39. **Decorrelation transition in the Wigner minor process**.     
+with Zhigang Bao, László Erdős, Joscha Henheik, and Oleksii Kolupaiev (2025).     
 Preprint: [arXiv:2503.06549](https://arxiv.org/pdf/2503.06549).
+
+40. **Law of fractional logarithm for random matrices**.     
+with Zhigang Bao, László Erdős, Joscha Henheik, and Oleksii Kolupaiev (2025).     
+Preprint: [arXiv:2503.18922](https://arxiv.org/pdf/2503.18922).  
 
 ## **Proceedings**
 

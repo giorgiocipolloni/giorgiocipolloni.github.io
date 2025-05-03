@@ -151,7 +151,7 @@ J. Stat. Phys., Vol. 191, No. 21 (2024).
 arXiv version: [arXiv:2306.16262](https://arxiv.org/pdf/2306.16262.pdf).  
 
 29. **Eigenstate thermalisation at the edge for Wigner matrices**.  
-with László Erdős, Joscha Henheik.
+with László Erdős, Joscha Henheik.  
 Accepted to  Ann. inst. Henri Poincare (B) Probab. Stat. (2025).    
 Preprint: [arXiv:2309.05488](https://arxiv.org/pdf/2309.05488.pdf).
 
@@ -183,7 +183,7 @@ with Paul Bourgade, and Jiaoyang Huang (2024).
 Preprint: [arXiv:2409.02902](https://arxiv.org/pdf/2409.02902).
 
 36. **Non--Hermitian spectral universality at critical points**.  
-with László Erdős, and Hong Chang Ji.
+with László Erdős, and Hong Chang Ji.  
 Accepted to Probab. Theory and Related Fields (2025).    
 Preprint: [arXiv:2409.17030](https://arxiv.org/pdf/2409.17030).
 

@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Since Ausgust 2024, I am an Assistant Professor in the [Department of Mathematics at the University of Arizona](https://www.math.arizona.edu/?check_logged_in=1). Previously, I was a research fellow at the [Princeton Center for Theoretical Science](https://pcts.princeton.edu). Before that, I obtained my PhD in 2021 under the supervision of [László Erdős](https://ist.ac.at/en/research/erdoes-group/) at the *Institute of Science and Technology Austria*. My research interests are probability theory and mathematical physics with a focus on random matrices, statistical mechanics, and dynamical systems.
+Since September 2025, I am an Assistant Professor in the [Department of Mathematics at the University of Rome Tor Vergata](https://www.mat.uniroma2.it). Previously, I was an Assistant Professor in the [Department of Mathematics at the University of Arizona](https://www.math.arizona.edu/?check_logged_in=1) and I was a research fellow at the [Princeton Center for Theoretical Science](https://pcts.princeton.edu). Before that, I obtained my PhD in 2021 under the supervision of [László Erdős](https://ist.ac.at/en/research/erdoes-group/) at the *Institute of Science and Technology Austria*. My research interests are probability theory and mathematical physics with a focus on random matrices, statistical mechanics, and dynamical systems.
 
 
 
 ## **Curriculum vitae**
 
-**08/2024 – present.** Assistant Professor, University of Arizona.   
+**09/2025 – present.** Assistant Professor, University of Rome Tor Vergata.   
+**08/2024 – 08/2025.** Assistant Professor, University of Arizona.   
 **09/2021 – 08/2024.** Research fellow, Princeton Center for Theoretical Science (PCTS) and Department of Mathematics, Princeton University.  
 **02/2021 – 08/2021.** Postdoc, IST Austria.  
 **09/2017 – 01/2021.** PhD, IST Austria.  
@@ -32,9 +33,9 @@ Since Ausgust 2024, I am an Assistant Professor in the [Department of Mathematic
 
 ## **Contact Information**
 
-**Email:** gcipolloni[at]arizona.edu  
-**Phone:** +1 6099339368   
-**Office:** 363 (ENR 2, 3rd floor)  
-**Postal Address:**   1064 E Lowell St, Tucson, AZ 85719  
+**Email:** cipolloni[at]axp.mat.uniroma2.it   
+**Phone:** +1 6099339368     
+**Office:** Piano 0, dente 2    
+**Postal Address:** Via della Ricerca Scientifica, 1, 00133 Roma RM, Italia 
 
 

@@ -21,7 +21,7 @@ arXiv version: [arXiv:1811.04055](https://arxiv.org/abs/1811.04055).
 
 3. **Edge Universality for non-Hermitian Random Matrices**.   
 with László Erdős, Dominik Schröder.  
-Probab. Theory and Related Fields, Vol. 179, 1--28 (2021).     
+Probab. Theory Relat. Fields, Vol. 179, 1--28 (2021).     
 arXiv version: [arXiv:1908.00969](https://arxiv.org/abs/1908.00969).  
 
 4. **Optimal Lower Bound on the Least Singular Value of the Shifted Ginibre Ensemble**.  
@@ -71,7 +71,7 @@ arXiv version: [arXiv:2105.13720](https://arxiv.org/abs/2105.13720).
 
 13. **Quenched universality for deformed Wigner matrices**.  
 with László Erdős, Dominik Schröder.  
-Probab. Theory and Related Fields, Vol.185, 1183--1218 (2023).     
+Probab. Theory Relat. Fields, Vol.185, 1183--1218 (2023).     
 arXiv version: [arXiv:2106.10200](https://arxiv.org/abs/2106.10200). 
 
 14. **On the Spectral Form Factor for Random Matrices**.  
@@ -117,7 +117,7 @@ arXiv version: [arXiv:2210.10729](https://arxiv.org/abs/2210.10729).
 
 22. **Mesoscopic Central Limit Theorem for non-Hermitian Random Matrices**.  
 with László Erdős, Dominik Schröder.    
-Probab. Theory and Related Fields, Vol. 188, 1131--1182 (2024).    
+Probab. Theory Relat. Fields, Vol. 188, 1131--1182 (2024).    
 arXiv version: [arXiv:2210.12060](https://arxiv.org/abs/2210.12060).  
 
 23. **Precise asymptotics for the spectral radius of a large random matrix**.  
@@ -171,8 +171,8 @@ Preprint: [arXiv:2404.17512](https://arxiv.org/pdf/2404.17512).
 
 33. **Maximum of the Characteristic Polynomial of I.I.D. Matrices**.  
 with Benjamin Landon.  
-Accepted to Comm. Pure Appl. Math. (2025).   
-Preprint: [arXiv:2405.05045](https://arxiv.org/pdf/2405.05045).
+Comm. Pure Appl. Math. (2025).   
+arXiv version: [arXiv:2405.05045](https://arxiv.org/pdf/2405.05045).
 
 34. **Matrix Concentration Inequalities and Free Probability II. Two--sided Bounds and Applications**.  
 with Afonso S. Bandeira, Dominik Schröder, and Ramon Van Handel (2024).   
@@ -184,24 +184,30 @@ Preprint: [arXiv:2409.02902](https://arxiv.org/pdf/2409.02902).
 
 36. **Non--Hermitian spectral universality at critical points**.  
 with László Erdős, and Hong Chang Ji.  
-Accepted to Probab. Theory and Related Fields (2025).    
-Preprint: [arXiv:2409.17030](https://arxiv.org/pdf/2409.17030).
+Probab. Theory Relat. Fields (2025).    
+arXiv version: [arXiv:2409.17030](https://arxiv.org/pdf/2409.17030).
 
 37. **Eigenvector decorrelation for random matrices**.   
 with László Erdős, Joscha Henheik, and Oleksii Kolupaiev (2024).  
 Preprint: [arXiv:2410.10718](https://arxiv.org/pdf/2410.10718).
 
 38. **Optimal decay of eigenvector overlap for non-Hermitian random matrices**.  
-with László Erdős, Yuanyuan Xu (2024).  
-Preprint: [arXiv:2411.16572](https://arxiv.org/pdf/2411.16572).  
+with László Erdős, Yuanyuan Xu.
+J. Func. Anal., Vol. 290, Iss. 1 (2026).
+arXiv version: [arXiv:2411.16572](https://arxiv.org/pdf/2411.16572).  
 
 39. **Decorrelation transition in the Wigner minor process**.     
-with Zhigang Bao, László Erdős, Joscha Henheik, and Oleksii Kolupaiev (2025).     
-Preprint: [arXiv:2503.06549](https://arxiv.org/pdf/2503.06549).
+with Zhigang Bao, László Erdős, Joscha Henheik, and Oleksii Kolupaiev.
+Probab. Theory Relat. Fields (2025).     
+arXiv version: [arXiv:2503.06549](https://arxiv.org/pdf/2503.06549).
 
 40. **Law of fractional logarithm for random matrices**.     
 with Zhigang Bao, László Erdős, Joscha Henheik, and Oleksii Kolupaiev (2025).     
-Preprint: [arXiv:2503.18922](https://arxiv.org/pdf/2503.18922).  
+Preprint: [arXiv:2503.18922](https://arxiv.org/pdf/2503.18922).
+
+41. **Optimal Delocalization for Non–Hermitian Eigenvectors**.  
+with Benjamin Landon (2025).   
+Preprint: [arXiv:2509.15189](https://arxiv.org/pdf/2509.15189).
 
 ## **Proceedings**
 

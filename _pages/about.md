@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since September 2025, I am an Assistant Professor in the [Department of Mathematics at the University of Rome Tor Vergata](https://www.mat.uniroma2.it). Previously, I was an Assistant Professor in the [Department of Mathematics at the University of Arizona](https://www.math.arizona.edu/?check_logged_in=1) and I was a research fellow at the [Princeton Center for Theoretical Science](https://pcts.princeton.edu). Before that, I obtained my PhD in 2021 under the supervision of [László Erdős](https://ist.ac.at/en/research/erdoes-group/) at the *Institute of Science and Technology Austria*. My research interests are probability theory and mathematical physics with a focus on random matrices, statistical mechanics, and dynamical systems.
+Since September 2025, I am an Assistant Professor in the Department of Mathematics at the [University of Rome Tor Vergata](https://www.mat.uniroma2.it). Previously, I was an Assistant Professor in the Department of Mathematics at the [University of Arizona](https://www.math.arizona.edu/?check_logged_in=1) and a research fellow at the [Princeton Center for Theoretical Science](https://pcts.princeton.edu). Before that, I obtained my PhD in 2021 under the supervision of [László Erdős](https://ist.ac.at/en/research/erdoes-group/) at the *Institute of Science and Technology Austria*. My research interests are probability theory and mathematical physics with a focus on random matrices, statistical mechanics, and dynamical systems.
 
 
 

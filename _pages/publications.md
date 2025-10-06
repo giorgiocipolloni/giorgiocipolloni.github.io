@@ -209,6 +209,11 @@ Preprint: [arXiv:2503.18922](https://arxiv.org/pdf/2503.18922).
 with Benjamin Landon (2025).   
 Preprint: [arXiv:2509.15189](https://arxiv.org/pdf/2509.15189).
 
+42. **Numerical Radius of Non-Hermitian Random Matrices**.         
+with Zhigang Bao (2025).       
+Preprint: [arXiv:2510.02667](https://arxiv.org/pdf/2510.02667).  
+
+
 ## **Proceedings**
 
 1. **Edge Universality for non-Hermitian Random Matrices**.   

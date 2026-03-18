@@ -179,43 +179,44 @@ with Afonso S. Bandeira, Dominik Schröder, and Ramon Van Handel (2024).
 Preprint: [arXiv:2406.11453](https://arxiv.org/pdf/2406.11453).
 
 35. **Fluctuations for non--Hermitian dynamics**.  
-with Paul Bourgade, and Jiaoyang Huang (2024).  
+with Paul Bourgade, and Jiaoyang Huang.
+Accepted to Camb. J. Math. (2026).      
 Preprint: [arXiv:2409.02902](https://arxiv.org/pdf/2409.02902).
 
-36. **Non--Hermitian spectral universality at critical points**.  
+37. **Non--Hermitian spectral universality at critical points**.  
 with László Erdős, and Hong Chang Ji.  
 Probab. Theory Relat. Fields (2025).    
 arXiv version: [arXiv:2409.17030](https://arxiv.org/pdf/2409.17030).
 
-37. **Eigenvector decorrelation for random matrices**.   
+38. **Eigenvector decorrelation for random matrices**.   
 with László Erdős, Joscha Henheik, and Oleksii Kolupaiev.
 Accepted to Ann. Appl. Probab. (2026).    
 Preprint: [arXiv:2410.10718](https://arxiv.org/pdf/2410.10718).
 
-38. **Optimal decay of eigenvector overlap for non-Hermitian random matrices**.    
+39. **Optimal decay of eigenvector overlap for non-Hermitian random matrices**.    
 with László Erdős, Yuanyuan Xu.   
 J. Func. Anal., Vol. 290, Iss. 1 (2026).   
 arXiv version: [arXiv:2411.16572](https://arxiv.org/pdf/2411.16572).  
 
-39. **Decorrelation transition in the Wigner minor process**.       
+40. **Decorrelation transition in the Wigner minor process**.       
 with Zhigang Bao, László Erdős, Joscha Henheik, and Oleksii Kolupaiev.  
 Probab. Theory Relat. Fields (2025).      
 arXiv version: [arXiv:2503.06549](https://arxiv.org/pdf/2503.06549).
 
-40. **Law of fractional logarithm for random matrices**.       
+41. **Law of fractional logarithm for random matrices**.       
 with Zhigang Bao, László Erdős, Joscha Henheik, and Oleksii Kolupaiev (2025).       
 Preprint: [arXiv:2503.18922](https://arxiv.org/pdf/2503.18922).  
 
-41. **Optimal Delocalization for Non–Hermitian Eigenvectors**.  
+42. **Optimal Delocalization for Non–Hermitian Eigenvectors**.  
 with Benjamin Landon (2025).   
 Preprint: [arXiv:2509.15189](https://arxiv.org/pdf/2509.15189).
 
-42. **Numerical Radius of Non-Hermitian Random Matrices**.         
+43. **Numerical Radius of Non-Hermitian Random Matrices**.         
 with Zhigang Bao (2025).       
 Preprint: [arXiv:2510.02667](https://arxiv.org/pdf/2510.02667).
 
-43. **The eigenvalues of i.i.d. matrices are hyperuniform**.
-with László Erdősand, Oleksii Kolupaiev (2026).
+44. **The eigenvalues of i.i.d. matrices are hyperuniform**.  
+with László Erdős, Oleksii Kolupaiev (2026).  
 Preprint:[arXiv:2602.17628](https://arxiv.org/pdf/2602.17628).  
 
 ## **Proceedings**

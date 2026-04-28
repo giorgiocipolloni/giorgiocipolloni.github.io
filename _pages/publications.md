@@ -174,8 +174,9 @@ with Benjamin Landon.
 Comm. Pure Appl. Math. (2025).   
 arXiv version: [arXiv:2405.05045](https://arxiv.org/pdf/2405.05045).
 
-34. **Matrix Concentration Inequalities and Free Probability II. Two--sided Bounds and Applications**.  
-with Afonso S. Bandeira, Dominik Schröder, and Ramon Van Handel (2024).   
+34. **Matrix Concentration Inequalities and Free Probability II. Two--sided Bounds and Applications**.    
+with Afonso S. Bandeira, Dominik Schröder, and Ramon Van Handel.
+Accepted to Comm. Amer. Math. Soc. (2026).  
 Preprint: [arXiv:2406.11453](https://arxiv.org/pdf/2406.11453).
 
 35. **Fluctuations for non--Hermitian dynamics**.  

@@ -39,3 +39,7 @@ Since September 2025, I am an Assistant Professor in the Department of Mathemati
 **Postal Address:** Via della Ricerca Scientifica, 1, 00133 Roma RM, Italia 
 
 
+## **Support Acknowledgement**
+
+I am supported by the Italian Ministry of University and Research (MUR) - Fondo Italiano per la Scienza (FIS3) - 2024 Call, project UBLOCO, CUP F53C25000940001, and also partially supported by the MUR Excellence Department Project MatMod@TOV awarded to the Department of Mathematics, University of Rome Tor Vergata, CUP E83C23000330006. I am a member of the GNFM group of Indam and PRISMA group of UMI.
+

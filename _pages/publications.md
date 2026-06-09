@@ -218,7 +218,19 @@ Preprint: [arXiv:2510.02667](https://arxiv.org/pdf/2510.02667).
 
 43. **The eigenvalues of i.i.d. matrices are hyperuniform**.  
 with László Erdős, Oleksii Kolupaiev (2026).  
-Preprint:[arXiv:2602.17628](https://arxiv.org/pdf/2602.17628).  
+Preprint:[arXiv:2602.17628](https://arxiv.org/pdf/2602.17628).
+
+44. **The non-Hermitian minor process**.      
+with László Erdős, Oleksii Kolupaiev (2026).      
+Preprint:[arXiv:2605.21265](https://arxiv.org/pdf/2605.21265).     
+
+45. **Sobolev convergence of log-determinants for smooth Wigner matrices**.      
+with Patrick Lopatto (2026).       
+Preprint: [arXiv:2605.27222](https://arxiv.org/pdf/2605.27222).      
+
+46. **Gaussian Multiplicative Chaos for i.i.d. matrices**.      
+with Benjamin Landon (2026).      
+Preprint: [arXiv:2509.15189](https://arxiv.org/pdf/2605.29962).      
 
 ## **Proceedings**
 

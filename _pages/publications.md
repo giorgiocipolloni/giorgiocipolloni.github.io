@@ -230,7 +230,7 @@ Preprint: [arXiv:2605.27222](https://arxiv.org/pdf/2605.27222).
 
 46. **Gaussian Multiplicative Chaos for i.i.d. matrices**.      
 with Benjamin Landon (2026).      
-Preprint: [arXiv:2509.15189](https://arxiv.org/pdf/2605.29962).      
+Preprint: [arXiv:2605.29962](https://arxiv.org/pdf/2605.29962).      
 
 ## **Proceedings**
 

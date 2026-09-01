@@ -236,7 +236,7 @@ Preprint: [arXiv:2605.29962](https://arxiv.org/pdf/2605.29962).
 with László Erdős, Joscha Henheik (2026).           
 Preprint:[arXiv:2607.02446](https://arxiv.org/pdf/2607.02446).
 
-48. **Weak local law and delocalization for the Sachdev–Ye–Kitaev model**.                   
+48. **Local law and delocalization for the Sachdev–Ye–Kitaev model**.                   
 with Lucas Benigni (2026).             
 Preprint:[arXiv:2608.03771](https://arxiv.org/pdf/2608.03771).       
 

@@ -208,9 +208,10 @@ arXiv version: [arXiv:2503.06549](https://arxiv.org/pdf/2503.06549).
 with Zhigang Bao, László Erdős, Joscha Henheik, and Oleksii Kolupaiev (2025).       
 Preprint: [arXiv:2503.18922](https://arxiv.org/pdf/2503.18922).  
 
-41. **Optimal Delocalization for Non–Hermitian Eigenvectors**.  
-with Benjamin Landon (2025).   
-Preprint: [arXiv:2509.15189](https://arxiv.org/pdf/2509.15189).
+41. **Optimal Delocalization for Non–Hermitian Eigenvectors**.     
+with Benjamin Landon.
+Accepted to Forum of Mathematics, Sigma (2026).         
+Preprint: [arXiv:2509.15189](https://arxiv.org/pdf/2509.15189).      
 
 42. **Numerical Radius of Non-Hermitian Random Matrices**.         
 with Zhigang Bao (2025).       
